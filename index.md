@@ -1,4 +1,3 @@
-
 #Indice
 
 * Larry Plotter y el bucle filosofal
