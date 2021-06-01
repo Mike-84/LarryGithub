@@ -3,5 +3,5 @@
 
 Esta serie de libros cuentan la historia de los que hay pocos.
 
-**Mike**
+**Mike**, Git lover
 
